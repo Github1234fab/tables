@@ -1,0 +1,26 @@
+[
+	{
+		"id": "1",
+        "title": "Trouve le premier chiffre!",
+		"description": "Le premier chiffre de la multiplication est caché. Prends ton temps pour trouver la bonne réponse!",
+        "compteur": "Voici ton compteur, il va t'accompagner le temps de la partie.",
+        "clique":"Clique pour connâitre la réponse.",
+        "reponse": "Voici la réponse:"
+	},
+    {
+    "id": "2",
+        "title": "Trouve le deuxièmechiffre!",
+		"description": "Le premier chiffre de la multiplication est caché. Prends ton temps pour trouver la bonne réponse!",
+        "compteur": "Voici ton compteur, il va t'accompagner le temps de la partie.",
+        "clique":"Clique pour connâitre la réponse.",
+        "réponse": "Voici la réponse:"
+    },
+    {
+       "id": "3",
+        "title": "Trouve le résultat!",
+		"description": "Le premier chiffre de la multiplication est caché. Prends ton temps pour trouver la bonne réponse!",
+        "compteur": "Voici ton compteur, il va t'accompagner le temps de la partie.",
+        "clique":"Clique pour connâitre la réponse.",
+        "réponse": "Voici la réponse:"
+    }
+]

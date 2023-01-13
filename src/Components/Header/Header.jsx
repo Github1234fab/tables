@@ -6,12 +6,12 @@ import { NavLink } from "react-router-dom"
 const Header = () => {
     return (
         <header className="head">
-            <h1>Le Tablomathique</h1>
             <img src={Logo} alt="Logo de Tablomatique" className='header_img' />
-            <nav>
-                < NavLink to="/">Accueil</NavLink>
-                < NavLink to="/">Jeux</NavLink>
-                < NavLink to="/">À propos</NavLink>
+            <h1>Le Tablomathique</h1>
+            <nav className="nav_bar">
+                < NavLink to="/" className="nav_link">Accueil</NavLink>
+                < NavLink to="/jeux/" className="nav_link">Jeux</NavLink>
+                {/* < NavLink to="/" className="nav_link">À propos</NavLink> */}
             </nav>
         </header>
     );
