@@ -1,5 +1,5 @@
 header{
-    background-color: rgb(245, 240, 219);
+    background-color: #ECF8F6;
     height: 100px;
     display: flex;
     align-items: center;
@@ -9,7 +9,7 @@ header{
 
 h1{
     font-size: 28px;
-    color: rgb(8, 21, 93);
+    color: #18534F;
     font-family: Poppins;
 }
 
@@ -19,7 +19,7 @@ h1{
 }
 
 .nav_link{
-    color: rgb(24, 23, 23);
+    color: #226D68;
       text-decoration: none;
        font-size: 16px;
     font-family: Poppins;

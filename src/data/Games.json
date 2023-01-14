@@ -1,26 +1,17 @@
 [
 	{
 		"id": "1",
-        "title": "Trouve le premier chiffre!",
-		"description": "Le premier chiffre de la multiplication est caché. Prends ton temps pour trouver la bonne réponse!",
-        "compteur": "Voici ton compteur, il va t'accompagner le temps de la partie.",
-        "clique":"Clique pour connâitre la réponse.",
-        "reponse": "Voici la réponse:"
+        "title": "Jeu N°1",
+		"description": "Dans ce jeu, tu vas devoir chercher le chiffre mystère! Surtout prend ton temps pour donner la bonne réponse et refléchis bien! Un compteur s'affichera après ta première réponse. Une partie est en 5 points. Bonne chance!!"
 	},
     {
     "id": "2",
-        "title": "Trouve le deuxièmechiffre!",
-		"description": "Le premier chiffre de la multiplication est caché. Prends ton temps pour trouver la bonne réponse!",
-        "compteur": "Voici ton compteur, il va t'accompagner le temps de la partie.",
-        "clique":"Clique pour connâitre la réponse.",
-        "réponse": "Voici la réponse:"
+        "title": "Jeu n°2",
+		"description": "Dans ce jeu, tu vas devoir chercher le chiffre mystère! Surtout prend ton temps pour donner la bonne réponse et refléchis bien! Un compteur s'affichera après ta première réponse. Une partie est en 5 points. Bonne chance!!"
     },
     {
        "id": "3",
-        "title": "Trouve le résultat!",
-		"description": "Le premier chiffre de la multiplication est caché. Prends ton temps pour trouver la bonne réponse!",
-        "compteur": "Voici ton compteur, il va t'accompagner le temps de la partie.",
-        "clique":"Clique pour connâitre la réponse.",
-        "réponse": "Voici la réponse:"
+        "title": "Jeu n°3",
+		"description": "Dans ce jeu, tu vas devoir chercher le chiffre mystère! Surtout prend ton temps pour donner la bonne réponse et refléchis bien! Un compteur s'affichera après ta première réponse. Une partie est en 5 points. Bonne chance!!"
     }
 ]
