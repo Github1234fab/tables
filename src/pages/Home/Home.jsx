@@ -12,7 +12,7 @@ const Home = () => {
     const array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
     const randomArray = array[Math.floor(Math.random() * array.length)];
     console.log(randomArray);
-    const totalCalculation = { state }.value * { randomArray }.value;
+    const totalCalculation = randomArray * state;
     console.log(totalCalculation);
 
     return (
@@ -27,7 +27,6 @@ const Home = () => {
             <button onClick={getValue} value="8">8</button>
             <button onClick={getValue} value="9">9</button>
             <button onClick={getValue} value="10">10</button>
-            {/* <button onClick={getCalculation}>START</button> */}
             <h1>{state}</h1>
             <Calculation randomArray={randomArray} state={state} totalCalculation={totalCalculation} />
         </div>
