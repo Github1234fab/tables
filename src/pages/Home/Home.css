@@ -1,4 +1,10 @@
-.test_list{
+.table_choose{
 color: blue;
 text-decoration-style: none;
+}
+.calculation{
+    color: pink;
+}
+.blind_calculation{
+    color: green;
 }
