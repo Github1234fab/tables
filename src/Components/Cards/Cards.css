@@ -1,9 +1,10 @@
 .table_choose {
-  color: blue;
+  color: rgb(0, 0, 0);
   text-decoration-style: none;
+  font-size: 16px;
 }
 .calculation {
-  color: rgb(67, 67, 193);
+  color: rgb(0, 0, 0);
 }
 .blind_calculation {
   color: green;
@@ -17,8 +18,31 @@
   gap: 20px;
 }
 .buttons_style {
+   border-radius: 10px;
+    height: 45px;
+    width: 45px;
   padding: 10px;
   font-size: 18px;
   font-family: poppins;
-  box-shadow: inset 5em 1em gold;
+  box-shadow:  inset 1px 2px 6px 1px rgb(25, 25, 24);
+border:  ridge 1px grey;
+}
+
+.table_title{
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+}
+
+.calculation_board{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Poppins;
+}
+.table_choose_title{
+    font-size: 14px;
+}
+.response{
+    height: 30px;
 }
